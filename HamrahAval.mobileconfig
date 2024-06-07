@@ -59,7 +59,7 @@
 	<key>PayloadDisplayName</key>
 	<string>ASEINet APN Profile (IPv6 support)(Ver. 1.2)</string>
 	<key>PayloadDescription</key>
-	<string>Apply APN-setting to your iOS device. iOSにAPN設定の適用を行います。IPv6接続に対応しているプロファイルです。</string>
+	<string> HamrahAval </string>
 	<key>PayloadIdentifier</key>
 	<string>com.aseinet</string>
 	<key>PayloadOrganization</key>
